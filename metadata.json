@@ -1,0 +1,6 @@
+{
+  "name": "Scene Shadow: Who Are You Without the Suit?",
+  "description": "An educational English movie-clip shadowing practice app using Spider-Man: Homecoming (2017) for Korean high school learners.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
